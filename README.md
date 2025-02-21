@@ -7,6 +7,8 @@ Este proyecto es una migración del hook useState a useReducer en un carrito de 
 Los datos de las T-shirts provienen de una API, permitiendo la carga dinámica de productos. La implementación con useReducer mejora la gestión del estado global del carrito, optimizando el rendimiento y la escalabilidad de la aplicación.
 
 🔹 Tecnologías utilizadas:
+
+
 ✅ React + TypeScript
 
 
