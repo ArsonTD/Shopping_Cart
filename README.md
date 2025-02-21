@@ -1,16 +1,12 @@
-🛒 Shopping Cart - React, TypeScript, Vite & useReducer
-Este proyecto es una migración del estado manejado con useState a useReducer para mejorar la gestión del estado global del carrito de compras. Se trata de una tienda de camisetas (T-shirts), donde los usuarios pueden agregar, eliminar y modificar productos en su carrito de manera eficiente.
+🛒 Carrito de Compras con React, TypeScript, Vite y useReducer
+Este proyecto es una migración del hook useState a useReducer en un carrito de compras de T-shirts. La aplicación está desarrollada con React, TypeScript y Vite, proporcionando una experiencia rápida y eficiente.
 
-🚀 Tecnologías utilizadas
-React ⚛️ – Biblioteca para construir interfaces interactivas.
-TypeScript 🦺 – Tipado estático para un código más robusto.
-Vite ⚡ – Entorno de desarrollo ultrarrápido.
-useReducer 🔄 – Manejo avanzado del estado para optimizar la lógica del carrito.
-🛠️ Funcionalidades
-✔️ Agregar camisetas al carrito.
-✔️ Eliminar camisetas del carrito.
-✔️ Actualizar la cantidad de camisetas seleccionadas.
-✔️ Persistencia del estado en el almacenamiento local (opcional).
-✔️ Cálculo dinámico del total de compra.
+Los datos de las T-shirts provienen de una API, permitiendo la carga dinámica de productos. La implementación con useReducer mejora la gestión del estado global del carrito, optimizando el rendimiento y la escalabilidad de la aplicación.
 
-Este proyecto no solo optimiza la lógica del estado con useReducer, sino que también mejora la escalabilidad y organización del código. 🚀🔥
+🔹 Tecnologías utilizadas:
+✅ React + TypeScript
+✅ Vite para un entorno de desarrollo rápido
+✅ useReducer para la gestión eficiente del estado
+✅ Consumo de API para obtener datos de productos
+
+Este proyecto no solo demuestra una mejora en la estructura del código al pasar de useState a useReducer, sino que también ofrece una base sólida para futuras mejoras, como agregar filtros, búsquedas y persistencia del carrito. 🚀
