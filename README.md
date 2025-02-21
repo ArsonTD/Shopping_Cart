@@ -8,8 +8,15 @@ Los datos de las T-shirts provienen de una API, permitiendo la carga dinámica d
 
 🔹 Tecnologías utilizadas:
 ✅ React + TypeScript
+
+
 ✅ Vite para un entorno de desarrollo rápido
+
+
 ✅ useReducer para la gestión eficiente del estado
+
+
 ✅ Consumo de API para obtener datos de productos
+
 
 Este proyecto no solo demuestra una mejora en la estructura del código al pasar de useState a useReducer, sino que también ofrece una base sólida para futuras mejoras, como agregar filtros, búsquedas y persistencia del carrito. 🚀
